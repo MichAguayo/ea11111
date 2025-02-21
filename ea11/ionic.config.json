@@ -1,0 +1,7 @@
+{
+  "name": "ea11",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
